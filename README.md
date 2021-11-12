@@ -10,4 +10,4 @@
 ![image](https://github.com/IsmedQalyubi/7.Python-7/blob/main/random.PNG) 
 6. PIP dan Virtualenv
 ![image](https://github.com/IsmedQalyubi/7.Python-7/blob/main/pip.PNG) 
-![image](
+![image](https://github.com/IsmedQalyubi/7.Python-7/blob/main/hasil%20pip.png) 
