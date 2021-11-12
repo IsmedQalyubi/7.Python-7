@@ -5,7 +5,7 @@
 3. Module
 ![image](https://github.com/IsmedQalyubi/7.Python-7/blob/main/module.PNG) 
 4. Package
-![image](
+![image](https://github.com/IsmedQalyubi/7.Python-7/blob/main/package.PNG) 
 5. Random
 ![image](
 6. PIP dan Virtualenv
